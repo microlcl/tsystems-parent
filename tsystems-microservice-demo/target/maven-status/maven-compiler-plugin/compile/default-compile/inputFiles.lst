@@ -1,0 +1,10 @@
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\MyApp.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\repository\db\mapper\PingMapper.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\service\impl\PingServiceImpl.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\service\PingService.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\domain\model\Ping.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\repository\impl\PingRepositoryImpl.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\controller\DemoController.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\config\MyBatisConfig.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\config\BrandDB.java
+D:\workspace-sts\tsystems-parent\tsystems-microservice-demo\src\main\java\com\tsystem\microservice\demo\repository\PingRepository.java

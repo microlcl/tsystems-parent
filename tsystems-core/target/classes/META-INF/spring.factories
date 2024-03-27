@@ -1,0 +1,10 @@
+#org.springframework.context.ApplicationContextInitializer=\
+# com.yumc.ycms.core.config.YcmsPropertiesApplicationListener
+
+# org.springframework.context.ApplicationListener=\
+# com.yumc.ycms.core.config.YcmsPropertiesApplicationListener
+
+# Bootstrap components
+# org.springframework.cloud.bootstrap.BootstrapConfiguration=\
+# com.yumc.ycms.core.config.YcmsPropertiesApplicationListener
+
